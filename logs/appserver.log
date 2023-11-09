@@ -1,0 +1,40 @@
+2023-10-18T20:57:56.744+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-18T20:57:56.754+0530 DEBUG After method !!!!!!!!:null
+2023-10-18T21:16:21.519+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-18T21:16:21.549+0530 DEBUG After method !!!!!!!!:null
+2023-10-18T21:24:34.659+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-18T21:24:34.687+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T14:36:10.868+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-24T14:36:10.886+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T14:49:11.837+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-24T14:49:11.841+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T14:50:54.087+0530 DEBUG Before method !!!!!!:public org.springframework.http.ResponseEntity com.lcwd.electronic.store.controllers.UserController.getAllUsers(java.lang.Integer,java.lang.Integer,java.lang.String,java.lang.String) 0
+2023-10-24T14:50:54.097+0530 DEBUG After method !!!!!!!!:<200 OK OK,com.lcwd.electronic.store.dtos.PageableResponse@4d38c404,[]>
+2023-10-24T14:50:54.110+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-24T14:50:54.112+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException 72ab1afb-ac39-41ca-8b1a-bb136eb3a5c8
+2023-10-24T14:50:54.113+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T14:50:54.135+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T14:50:57.884+0530 DEBUG Before method !!!!!!:public org.springframework.http.ResponseEntity com.lcwd.electronic.store.controllers.UserController.getAllUsers(java.lang.Integer,java.lang.Integer,java.lang.String,java.lang.String) 0
+2023-10-24T14:50:57.895+0530 DEBUG After method !!!!!!!!:<200 OK OK,com.lcwd.electronic.store.dtos.PageableResponse@104cbbb4,[]>
+2023-10-24T14:50:57.944+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-24T14:50:57.944+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException 72ab1afb-ac39-41ca-8b1a-bb136eb3a5c8
+2023-10-24T14:50:57.948+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T14:50:57.967+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T14:51:08.763+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-24T14:51:08.766+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T14:51:19.087+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-24T14:51:19.092+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T22:45:11.959+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-24T22:45:12.189+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T22:45:23.917+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-24T22:45:23.929+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T22:45:32.078+0530 DEBUG Before method !!!!!!:public org.springframework.http.ResponseEntity com.lcwd.electronic.store.controllers.UserController.getAllUsers(java.lang.Integer,java.lang.Integer,java.lang.String,java.lang.String) 0
+2023-10-24T22:45:32.121+0530 DEBUG After method !!!!!!!!:<200 OK OK,com.lcwd.electronic.store.dtos.PageableResponse@13a822e8,[]>
+2023-10-24T22:45:32.142+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-24T22:45:32.149+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException 72ab1afb-ac39-41ca-8b1a-bb136eb3a5c8
+2023-10-24T22:45:32.153+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T22:45:32.194+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T22:45:49.398+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-24T22:45:49.410+0530 DEBUG After method !!!!!!!!:null
+2023-10-24T22:45:59.782+0530 DEBUG Before method !!!!!!:public void com.lcwd.electronic.store.controllers.UserController.downloadImage(java.lang.String,jakarta.servlet.http.HttpServletResponse) throws java.io.IOException a9e173be-ea95-462e-812b-73d8b4320813
+2023-10-24T22:45:59.792+0530 DEBUG After method !!!!!!!!:null
