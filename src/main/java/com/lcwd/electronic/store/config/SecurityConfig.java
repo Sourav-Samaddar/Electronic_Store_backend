@@ -44,6 +44,9 @@ public class SecurityConfig {
 			"/webjars/**",
 			"/test/**",
 			"/users/image/**",
+			"/cloudinary/api/upload/**",
+			"/cloudinary/api/delete/**",
+			"/cloudinary/api/image/**",
 			"/swagger-ui.html"
 			};
 	
